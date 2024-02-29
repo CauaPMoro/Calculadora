@@ -1,0 +1,13 @@
+body{
+    background-color: white;
+}
+
+div{
+    width: 40%;
+    height: 5%;
+    background-color: rgb(162, 51, 226);;
+    padding: 10px;
+    border-radius: 100px;
+
+}
+
